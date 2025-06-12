@@ -60,7 +60,6 @@ Each file includes:
 | 🔄 In Progress | XX |
 | 🕒 Remaining | XX |
 
-_(Updated weekly)_
 
 ---
 
